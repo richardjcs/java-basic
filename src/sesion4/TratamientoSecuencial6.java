@@ -10,7 +10,7 @@ import javabasic.LT;
  *
  * @author richardcj
  */
-public class TratamientoSecuencias6 {
+public class TratamientoSecuencial6 {
 
     /**
      * Visualizar la primera vocal despues de una consonante.
